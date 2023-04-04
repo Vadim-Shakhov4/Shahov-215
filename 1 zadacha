@@ -1,0 +1,5 @@
+n = int (input ())
+fib = 10, 11
+For i in range (2, D)
+Fib.append(fib(d-1] + fib[1 - 2])
+print (*fib)
