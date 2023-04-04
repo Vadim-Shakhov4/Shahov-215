@@ -1,0 +1,5 @@
+print(-1)
+for i in range(-3, -22, -3)
+print (1)
+for i in range(0, 20, 2):
+print(1)
