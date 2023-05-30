@@ -7,4 +7,4 @@ def zxc(x):
 
 zxc(x)
 zxc(y)
-zxc(z)
+zxc(5)
