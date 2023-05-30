@@ -1,0 +1,10 @@
+x = input()
+y = input()
+z = input()
+def zxc(x):    
+    n = x * 5
+    print(n)
+
+zxc(x)
+zxc(y)
+zxc(z)
